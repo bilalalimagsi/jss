@@ -1,0 +1,59 @@
+body{
+    background-color: #88acdf;
+    color: white;
+}
+.unline{
+    width: 100%;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 362px;
+    margin-right: 488px;
+    border-radius: 20px;
+    background-color: rgb(113, 156, 248);
+}
+h3{
+   border: 2px solid black;
+   border-radius: 20px;
+   background-color: rgb(113, 156, 248);
+    display: inline-block;
+    padding: 10px;
+}
+.tableborder{
+    border: 2px solid black;
+    width: 100%;
+    text-align: center;
+}
+.doubleline{
+border: 1px solid black;
+text-align: center;
+}
+.singalline{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.singallineb{
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(113, 156, 248);
+}
+.borderdesign{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+.singalline2{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.singalline2 :hover{
+    background-color:grey ;
+}
+tr :hover{
+background-color: rgb(207, 248, 248);
+}
